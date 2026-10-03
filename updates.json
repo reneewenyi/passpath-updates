@@ -1,14 +1,14 @@
 {
   "version": 1,
   "issue": "2026-10",
-  "updatedOn": "2026-10-03",
+  "updatedOn": "2026-10-04",
   "note": {
-    "zh": "每条都来自官方公告，附原文链接。每月核对一次 App 里的规则，改了什么写在「本月核对」里。",
-    "en": "Every item comes from an official announcement, with a link to the original. Each month we re-check the rules in this app; what changed is listed under “This month’s check”.",
-    "vi": "Mỗi mục đều lấy từ thông báo chính thức, có đường dẫn đến bản gốc. Mỗi tháng chúng tôi kiểm tra lại các quy định trong ứng dụng; những gì đã thay đổi được ghi ở mục “Kiểm tra tháng này”.",
-    "my": "အချက်တိုင်းကို တရားဝင် ကြေညာချက်မှ ယူထားပြီး မူရင်းလင့်ခ် ပါသည်။ လစဉ် ဤအက်ပ်ထဲရှိ စည်းမျဉ်းများကို ပြန်စစ်ပြီး ပြောင်းလဲမှုများကို “ဤလ စစ်ဆေးချက်” တွင် ဖော်ပြထားသည်။",
-    "fr": "Chaque élément vient d’une annonce officielle, avec un lien vers l’original. Chaque mois, nous revérifions les règles de l’application ; les changements sont indiqués dans « Vérification du mois ».",
-    "it": "Ogni voce viene da un annuncio ufficiale, con il link all’originale. Ogni mese ricontrolliamo le regole dell’app; cosa è cambiato è scritto in “Controllo del mese”."
+    "zh": "每条都来自官方公告，附原文链接。先看加粗的那一句：你要做什么。",
+    "en": "Every item comes from an official announcement, with a link to the original. Read the bold line first: what you should do.",
+    "vi": "Mỗi mục đều từ thông báo chính thức, có đường dẫn bản gốc. Đọc dòng in đậm trước: bạn cần làm gì.",
+    "my": "တစ်ခုချင်းစီက တရားဝင် ကြေညာချက်ကနေ ယူထားပြီး မူရင်းလင့်ခ် ပါပါတယ်။ စာလုံးမည်းနဲ့ ရေးထားတဲ့ စာကြောင်းကို အရင်ဖတ်ပါ- သင် ဘာလုပ်ရမလဲ။",
+    "fr": "Chaque élément vient d’une annonce officielle, avec un lien vers l’original. Lisez d’abord la ligne en gras : ce que vous devez faire.",
+    "it": "Ogni voce viene da un annuncio ufficiale, con il link all’originale. Leggi prima la riga in grassetto: cosa devi fare."
   },
   "items": [
     {
@@ -16,66 +16,120 @@
       "kind": "warning",
       "date": "2026-09-21",
       "title": {
-        "zh": "冒充商店店员、再转接「金管局官员」的诈骗：今年至少 119 宗，损失至少 S$480 万",
-        "en": "Scammers pose as shop staff, then pass you to a fake “MAS officer”: at least 119 cases this year, at least S$4.8 million lost",
-        "vi": "Kẻ lừa đảo giả làm nhân viên cửa hàng, rồi chuyển máy cho “nhân viên MAS” giả: ít nhất 119 vụ năm nay, mất ít nhất 4,8 triệu S$",
-        "my": "ဆိုင်ဝန်ထမ်းအယောင်ဆောင်ပြီး “MAS အရာရှိ” အတုထံ လွှဲပေးသော လိမ်လည်မှု- ယခုနှစ် အနည်းဆုံး ၁၁၉ မှု၊ အနည်းဆုံး S$4.8 သန်း ဆုံးရှုံး",
-        "fr": "Des escrocs se font passer pour des employés de magasin, puis vous passent un faux « agent de la MAS » : au moins 119 cas cette année, au moins 4,8 millions S$ perdus",
-        "it": "Truffatori fingono di essere commessi di un negozio, poi ti passano a un falso “funzionario MAS”: almeno 119 casi quest’anno, almeno 4,8 milioni di S$ persi"
+        "zh": "冒充商店店员，再转给假「金管局官员」：今年至少 119 宗，损失至少 S$480 万",
+        "en": "Fake shop staff pass you to a fake “MAS officer”: at least 119 cases this year, at least S$4.8 million lost",
+        "vi": "Giả nhân viên cửa hàng rồi chuyển máy cho “nhân viên MAS” giả: ít nhất 119 vụ năm nay, mất ít nhất 4,8 triệu S$",
+        "my": "ဆိုင်ဝန်ထမ်း အတုက “MAS အရာရှိ” အတုဆီ လွှဲပေးတယ်- ဒီနှစ် အနည်းဆုံး 119 မှု၊ S$4.8 သန်း အနည်းဆုံး ဆုံးရှုံး",
+        "fr": "De faux employés de magasin vous passent un faux « agent de la MAS » : au moins 119 cas cette année, au moins 4,8 millions S$ perdus",
+        "it": "Falsi commessi ti passano a un falso “funzionario MAS”: almeno 119 casi quest’anno, almeno 4,8 milioni di S$ persi"
+      },
+      "action": {
+        "zh": "政府官员绝不会叫你转钱、交现金或金条。别转钱，挂掉电话，打 1799 问。",
+        "en": "Government officials never ask you to move money or hand over cash or gold. Don’t pay — hang up and call 1799.",
+        "vi": "Quan chức chính phủ không bao giờ bảo bạn chuyển tiền hay giao tiền mặt, vàng. Đừng chuyển — cúp máy và gọi 1799.",
+        "my": "အစိုးရအရာရှိတွေက ငွေလွှဲခိုင်းတာ၊ ငွေသား ရွှေ အပ်ခိုင်းတာ ဘယ်တော့မှ မလုပ်ဘူး။ ငွေမလွှဲပါနဲ့ — ဖုန်းချပြီး 1799 ကို ခေါ်ပါ။",
+        "fr": "Un agent de l’État ne vous demande jamais de virer de l’argent ni de remettre du liquide ou de l’or. Ne payez pas : raccrochez et appelez le 1799.",
+        "it": "Un funzionario pubblico non ti chiede mai di spostare soldi o consegnare contanti o oro. Non pagare: riattacca e chiama il 1799."
       },
       "body": {
-        "zh": "先说你买了电视或有一件货要送，你说没买，就说你的资料被盗用，要「调查」，再转给冒充新加坡金融管理局（MAS）的人，说你涉嫌洗钱，叫你转钱到「安全账户」、取现金、买金条或交出手表首饰。警方：政府官员绝不会叫你转钱或交出现金、金条、名表；不会问你网银密码；不会叫你装来路不明的 App；不会把电话转给警察或别的官员。拿不准就打 24 小时防诈骗热线 1799。",
-        "en": "They say you bought a TV or have a delivery. When you say no, they say your details were misused and need “investigating”, then pass you to someone posing as the Monetary Authority of Singapore (MAS), who says you are suspected of money laundering and tells you to move money to a “safe account”, withdraw cash, buy gold or hand over watches and jewellery. Police: government officials will never ask you to transfer or hand over cash, gold or luxury watches, ask for your banking login, ask you to install apps from unverified stores, or transfer your call to the Police or other officials. If unsure, call the 24/7 ScamShield Helpline 1799.",
-        "vi": "Họ nói bạn đã mua TV hoặc có hàng đang giao. Khi bạn nói không, họ bảo thông tin của bạn bị lạm dụng và cần “điều tra”, rồi chuyển cho người giả làm Cơ quan Tiền tệ Singapore (MAS), nói bạn bị nghi rửa tiền và bảo bạn chuyển tiền vào “tài khoản an toàn”, rút tiền mặt, mua vàng hoặc giao đồng hồ, trang sức. Cảnh sát: quan chức chính phủ không bao giờ bảo bạn chuyển hoặc giao tiền mặt, vàng, đồng hồ đắt tiền; không hỏi thông tin đăng nhập ngân hàng; không bảo bạn cài ứng dụng từ nguồn không rõ; không chuyển cuộc gọi sang Cảnh sát hay quan chức khác. Nếu không chắc, gọi Đường dây ScamShield 24/7: 1799.",
-        "my": "သင် TV ဝယ်ထားသည်၊ ပစ္စည်းပို့ရန်ရှိသည်ဟု ပြောသည်။ မဝယ်ပါဟု ပြောလျှင် သင့်အချက်အလက် အလွဲသုံးခံရပြီး “စုံစမ်း” ရမည်ဟုဆိုကာ စင်ကာပူ ငွေကြေးအာဏာပိုင် (MAS) အယောင်ဆောင်သူထံ လွှဲပေးပြီး ငွေမည်းဖြူလုပ်မှု သံသယရှိသည်ဟုဆိုကာ “လုံခြုံသောအကောင့်” သို့ ငွေလွှဲရန်၊ ငွေသားထုတ်ရန်၊ ရွှေဝယ်ရန် သို့မဟုတ် နာရီ၊ လက်ဝတ်ရတနာ အပ်ရန် ပြောသည်။ ရဲ- အစိုးရအရာရှိများသည် ငွေသား၊ ရွှေ၊ နာရီ လွှဲ/အပ်ခိုင်းခြင်း၊ ဘဏ်လော့ဂ်အင် မေးခြင်း၊ မသေချာသော App ထည့်ခိုင်းခြင်း၊ ဖုန်းကို ရဲ သို့မဟုတ် အခြားအရာရှိထံ လွှဲပေးခြင်း ဘယ်တော့မှ မလုပ်ပါ။ မသေချာလျှင် ၂၄ နာရီ ScamShield 1799 ကို ခေါ်ပါ။",
-        "fr": "Ils disent que vous avez acheté une télé ou qu’une livraison vous attend. Si vous dites non, ils disent que vos données ont été utilisées et qu’il faut « enquêter », puis vous passent quelqu’un qui se fait passer pour l’Autorité monétaire de Singapour (MAS) : vous seriez soupçonné de blanchiment, il faut virer l’argent sur un « compte sûr », retirer du liquide, acheter de l’or ou remettre montres et bijoux. Police : un agent de l’État ne vous demandera jamais de virer ou remettre de l’argent, de l’or ou des montres de luxe, vos identifiants bancaires, d’installer une application hors des boutiques officielles, ni ne transférera votre appel à la police ou à un autre agent. En cas de doute, appelez la ligne ScamShield 24 h/24 : 1799.",
-        "it": "Dicono che hai comprato un televisore o che c’è una consegna. Se dici di no, dicono che i tuoi dati sono stati usati e bisogna “indagare”, poi ti passano a qualcuno che finge di essere dell’Autorità monetaria di Singapore (MAS): saresti sospettato di riciclaggio e devi spostare i soldi su un “conto sicuro”, prelevare contanti, comprare oro o consegnare orologi e gioielli. Polizia: un funzionario pubblico non ti chiederà mai di trasferire o consegnare contanti, oro o orologi di lusso, le credenziali della banca, di installare app da store non ufficiali, né passerà la tua chiamata alla Polizia o ad altri funzionari. Se hai dubbi, chiama la linea ScamShield 24 ore su 24: 1799."
+        "zh": "骗子先说你买了电视或有货要送。你说没买，他就说你的资料被盗用、要「调查」，再转给冒充新加坡金融管理局（MAS）的人，说你涉嫌洗钱，叫你把钱转到「安全账户」、取现金、买金条，或交出手表首饰。警方说：官员不会问你网银密码，不会叫你装来路不明的 App，也不会把电话转给警察或别的官员。",
+        "en": "They say you bought a TV or have a delivery. When you say no, they say your details were misused and need “investigating”, then pass you to someone posing as the Monetary Authority of Singapore (MAS), who says you are suspected of money laundering and tells you to move money to a “safe account”, withdraw cash, buy gold or hand over watches and jewellery. Police say officials will never ask for your banking login, ask you to install apps from unverified stores, or transfer your call to the Police or other officials.",
+        "vi": "Họ nói bạn đã mua TV hoặc có hàng đang giao. Bạn nói không, họ bảo thông tin của bạn bị lạm dụng và cần “điều tra”, rồi chuyển cho người giả làm Cơ quan Tiền tệ Singapore (MAS), nói bạn bị nghi rửa tiền, bảo chuyển tiền vào “tài khoản an toàn”, rút tiền mặt, mua vàng hoặc giao đồng hồ, trang sức. Cảnh sát nói: quan chức không hỏi mật khẩu ngân hàng, không bảo cài ứng dụng lạ, không chuyển cuộc gọi sang Cảnh sát hay quan chức khác.",
+        "my": "သင် TV ဝယ်ထားတယ်၊ ပစ္စည်းပို့စရာ ရှိတယ်လို့ ပြောတယ်။ မဝယ်ဘူးလို့ ပြောရင် သင့်အချက်အလက် အလွဲသုံးခံရလို့ “စုံစမ်း” ရမယ်ဆိုပြီး စင်ကာပူ ငွေကြေးအာဏာပိုင် (MAS) အယောင်ဆောင်သူဆီ လွှဲပေးတယ်။ သူက ငွေမည်းဖြူလုပ်မှု သံသယရှိတယ်ဆိုပြီး “လုံခြုံတဲ့အကောင့်” ကို ငွေလွှဲခိုင်းတယ်၊ ငွေသားထုတ်ခိုင်းတယ်၊ ရွှေဝယ်ခိုင်းတယ်၊ နာရီ လက်ဝတ်ရတနာ အပ်ခိုင်းတယ်။ ရဲက ပြောတာက- အရာရှိတွေက ဘဏ်စကားဝှက် မမေးဘူး၊ မသိတဲ့ App ထည့်ခိုင်းတာ မလုပ်ဘူး၊ ဖုန်းကို ရဲ ဒါမှမဟုတ် တခြားအရာရှိဆီ မလွှဲပေးဘူး။",
+        "fr": "Ils disent que vous avez acheté une télé ou qu’une livraison vous attend. Si vous dites non, vos données auraient été utilisées et il faut « enquêter » ; on vous passe alors quelqu’un qui se fait passer pour l’Autorité monétaire de Singapour (MAS) : vous seriez soupçonné de blanchiment et devez virer l’argent sur un « compte sûr », retirer du liquide, acheter de l’or ou remettre montres et bijoux. Selon la police, un agent ne vous demandera jamais vos identifiants bancaires, d’installer une application hors des boutiques officielles, ni ne transférera votre appel à la police ou à un autre agent.",
+        "it": "Dicono che hai comprato un televisore o che c’è una consegna. Se dici di no, i tuoi dati sarebbero stati usati e bisogna “indagare”; ti passano qualcuno che finge di essere dell’Autorità monetaria di Singapore (MAS): saresti sospettato di riciclaggio e devi spostare i soldi su un “conto sicuro”, prelevare contanti, comprare oro o consegnare orologi e gioielli. La polizia dice che un funzionario non ti chiederà mai le credenziali della banca, di installare app da store non ufficiali, né passerà la chiamata alla Polizia o ad altri funzionari."
       },
-      "source": { "label": "SPF · Police advisory, 21 Sep 2026", "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260921_police_advisory_on_government_officials_impersonation_scams_involving_the_impersonation" }
+      "source": {
+        "label": {
+          "zh": "新加坡警方 · 诈骗警告（2026 年 9 月 21 日）",
+          "en": "Singapore Police · Scam advisory (21 September 2026)",
+          "vi": "Cảnh sát Singapore · Cảnh báo lừa đảo (ngày 21 tháng 9 năm 2026)",
+          "my": "စင်ကာပူ ရဲ · လိမ်လည်မှု သတိပေးချက် (2026 စက်တင်ဘာ 21)",
+          "fr": "Police de Singapour · Alerte arnaque (21 septembre 2026)",
+          "it": "Polizia di Singapore · Avviso truffa (21 settembre 2026)"
+        },
+        "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260921_police_advisory_on_government_officials_impersonation_scams_involving_the_impersonation"
+      }
     },
     {
       "id": "2026-09-04-mom-phantom-workers",
       "kind": "enforcement",
       "date": "2026-09-04",
       "title": {
-        "zh": "人力部突击执法：4 人被捕、21 人协助调查——假申报、给「挂名员工」交 CPF 骗配额、收回扣",
-        "en": "MOM enforcement operation: 4 arrested, 21 assisting — false declarations, CPF paid to “phantom workers” to inflate quotas, kickbacks",
-        "vi": "MOM ra quân: 4 người bị bắt, 21 người hỗ trợ điều tra — khai man, đóng CPF cho “nhân viên ma” để tăng hạn ngạch, nhận lại quả",
-        "my": "MOM စစ်ဆေးမှု- ၄ ဦး ဖမ်းဆီး၊ ၂၁ ဦး စုံစမ်းရေးကူညီ — မှားယွင်းကြေညာခြင်း၊ ကိုတာတိုးရန် “အမည်ခံဝန်ထမ်း” CPF ထည့်ခြင်း၊ ကော်မရှင်ပြန်ယူခြင်း",
-        "fr": "Opération du MOM : 4 arrestations, 21 personnes entendues — fausses déclarations, CPF versé à des « employés fantômes » pour gonfler les quotas, rétrocommissions",
-        "it": "Operazione del MOM: 4 arresti, 21 persone ascoltate — false dichiarazioni, CPF versato a “lavoratori fantasma” per gonfiare le quote, tangenti"
+        "zh": "人力部执法：4 人被捕、21 人协助调查（假申报、给「挂名员工」交 CPF 骗名额、收回扣）",
+        "en": "MOM operation: 4 arrested, 21 assisting (false declarations, CPF for “phantom workers” to inflate quotas, kickbacks)",
+        "vi": "MOM ra quân: 4 người bị bắt, 21 người hỗ trợ điều tra (khai man, đóng CPF cho “nhân viên ma” để tăng hạn ngạch, đòi tiền lại quả)",
+        "my": "MOM စစ်ဆေးမှု- 4 ဦး ဖမ်းခံရ၊ 21 ဦး စုံစမ်းရေး ကူညီနေ (မှားယွင်းကြေညာ၊ ကိုတာတိုးဖို့ “နာမည်ခံဝန်ထမ်း” အတွက် CPF ထည့်၊ လာဘ်ငွေ (kickback) ယူ)",
+        "fr": "Opération du MOM : 4 arrestations, 21 personnes entendues (fausses déclarations, CPF pour des « employés fantômes » afin de gonfler les quotas, rétrocommissions)",
+        "it": "Operazione del MOM: 4 arresti, 21 persone ascoltate (false dichiarazioni, CPF per “lavoratori fantasma” per gonfiare le quote, soldi chiesti ai lavoratori per il posto)"
+      },
+      "action": {
+        "zh": "不是你上班的公司给你交 CPF，别接受；有人要你交钱换工作，那是回扣，别给。",
+        "en": "Don’t accept CPF from a company you don’t work for. If someone asks you to pay for a job, that’s a kickback — don’t pay.",
+        "vi": "Đừng nhận CPF từ công ty bạn không làm việc. Ai đòi bạn trả tiền để có việc là tiền lại quả — đừng trả.",
+        "my": "သင် အလုပ်မလုပ်တဲ့ ကုမ္ပဏီက ထည့်ပေးတဲ့ CPF ကို လက်မခံပါနဲ့။ အလုပ်ရဖို့ ငွေတောင်းရင် အဲဒါ လာဘ်ငွေ (kickback) ပါ — မပေးပါနဲ့။",
+        "fr": "N’acceptez pas de CPF d’une entreprise où vous ne travaillez pas. Si on vous demande de payer pour un emploi, c’est une rétrocommission : ne payez pas.",
+        "it": "Non accettare CPF da un’azienda dove non lavori. Se qualcuno ti chiede soldi per un lavoro, è una tangente sul posto di lavoro: non pagare."
       },
       "body": {
-        "zh": "人力部 9 月 4 日公布：建筑业 2 名公司董事和 2 名员工被捕，另有 21 人协助调查。涉嫌在准证申请里假申报、给根本没在公司上班的人交 CPF 来多拿外劳名额、收雇佣回扣。人力部写的刑罚：假申报最高罚 S$20,000、坐牢 2 年；收回扣最高罚 S$30,000、坐牢 2 年，定罪的雇主还会被禁止请外劳。人力部提醒：别接受不是你上班的公司给你交的 CPF，你可能变成帮凶。被捕不等于定罪。",
-        "en": "MOM said on 4 Sep: two company directors and two staff in construction were arrested, and 21 others are assisting investigations, over false declarations in work pass applications, CPF paid to people who never worked there to get more foreign worker quota, and employment kickbacks. Penalties MOM lists: false declaration up to S$20,000 and 2 years’ jail; collecting kickbacks up to S$30,000 and 2 years’ jail; convicted employers can be barred from hiring foreign workers. MOM’s advice: do not accept CPF from a company you do not work for — you may be abetting an offence. Arrested does not mean convicted.",
-        "vi": "Ngày 4/9 MOM cho biết: 2 giám đốc công ty và 2 nhân viên ngành xây dựng bị bắt, 21 người khác hỗ trợ điều tra, vì khai man trong hồ sơ xin giấy phép lao động, đóng CPF cho người không làm việc ở công ty để được thêm hạn ngạch lao động nước ngoài, và nhận lại quả. Hình phạt MOM nêu: khai man phạt đến 20.000 S$ và 2 năm tù; nhận lại quả phạt đến 30.000 S$ và 2 năm tù; chủ bị kết án có thể bị cấm thuê lao động nước ngoài. MOM khuyên: đừng nhận CPF từ công ty bạn không làm việc — bạn có thể bị coi là tiếp tay. Bị bắt không có nghĩa là bị kết án.",
-        "my": "MOM က ၉ စက်တင်ဘာတွင် ကြေညာသည်- ဆောက်လုပ်ရေးကဏ္ဍမှ ကုမ္ပဏီဒါရိုက်တာ ၂ ဦးနှင့် ဝန်ထမ်း ၂ ဦး ဖမ်းဆီးခံရပြီး အခြား ၂၁ ဦး စုံစမ်းရေးကို ကူညီနေသည်။ အလုပ်ပါမစ်လျှောက်လွှာတွင် မှားယွင်းကြေညာခြင်း၊ နိုင်ငံခြားလုပ်သားကိုတာ ပိုရရန် မလုပ်သူများအတွက် CPF ထည့်ခြင်း၊ အလုပ်ကော်မရှင်ပြန်ယူခြင်း ဖြစ်သည်။ MOM ဖော်ပြသော ပြစ်ဒဏ်- မှားယွင်းကြေညာမှု S$20,000 နှင့် ထောင် ၂ နှစ်အထိ၊ ကော်မရှင်ယူမှု S$30,000 နှင့် ထောင် ၂ နှစ်အထိ၊ ပြစ်မှုထင်ရှားသော အလုပ်ရှင်များ နိုင်ငံခြားလုပ်သား ငှားခွင့် ပိတ်ခံရနိုင်သည်။ MOM အကြံ- သင်မလုပ်သော ကုမ္ပဏီက ထည့်ပေးသော CPF ကို လက်မခံပါနှင့်၊ အကူအညီပေးသူ ဖြစ်သွားနိုင်သည်။ ဖမ်းဆီးခံရခြင်းသည် ပြစ်မှုထင်ရှားခြင်း မဟုတ်ပါ။",
-        "fr": "Le MOM a annoncé le 4 septembre : deux dirigeants et deux employés d’entreprises du BTP ont été arrêtés, 21 autres personnes aident l’enquête, pour fausses déclarations dans des demandes de permis, CPF versé à des personnes qui n’y travaillaient pas afin d’obtenir plus de quotas de travailleurs étrangers, et rétrocommissions. Peines indiquées par le MOM : fausse déclaration jusqu’à 20 000 S$ et 2 ans de prison ; rétrocommissions jusqu’à 30 000 S$ et 2 ans de prison ; un employeur condamné peut être interdit d’embaucher des étrangers. Conseil du MOM : n’acceptez pas de CPF d’une entreprise où vous ne travaillez pas, vous pourriez être complice. Arrêté ne veut pas dire condamné.",
-        "it": "Il MOM ha comunicato il 4 settembre: due amministratori e due dipendenti di imprese edili arrestati, altre 21 persone aiutano le indagini, per false dichiarazioni nelle domande di permesso, CPF versato a persone che non lavoravano lì per ottenere più quote di lavoratori stranieri, e tangenti. Pene indicate dal MOM: falsa dichiarazione fino a 20.000 S$ e 2 anni di carcere; tangenti fino a 30.000 S$ e 2 anni di carcere; i datori condannati possono essere esclusi dall’assunzione di stranieri. Consiglio del MOM: non accettare CPF da un’azienda dove non lavori, potresti diventare complice. Arrestato non vuol dire condannato."
+        "zh": "人力部 9 月 4 日公布：建筑业 2 名公司董事和 2 名员工被捕，另有 21 人协助调查。涉嫌在准证申请里假申报、给根本没在公司上班的人交 CPF 来多拿外劳名额、收雇佣回扣。人力部写的刑罚：假申报最高罚 S$20,000 或坐牢最长 2 年，或两者并罚；收回扣最高罚 S$30,000 或坐牢最长 2 年，或两者并罚；被定罪的雇主还可能被禁止请外劳。被捕不等于被定罪。",
+        "en": "MOM said on 4 September: two company directors and two staff in construction were arrested, and 21 others are assisting investigations, over false declarations in work pass applications, CPF paid to people who never worked there to get more foreign worker quota, and employment kickbacks. Penalties MOM lists: false declaration — a fine of up to S$20,000, up to 2 years’ jail, or both; collecting kickbacks — a fine of up to S$30,000, up to 2 years’ jail, or both; convicted employers may also be barred from hiring foreign workers. Arrested does not mean convicted.",
+        "vi": "Ngày 4 tháng 9, MOM cho biết: 2 giám đốc công ty và 2 nhân viên ngành xây dựng bị bắt, 21 người khác hỗ trợ điều tra, vì khai man trong hồ sơ giấy phép lao động, đóng CPF cho người không làm việc ở công ty để được thêm hạn ngạch lao động nước ngoài, và đòi tiền lại quả. Hình phạt MOM nêu: khai man — phạt đến 20.000 S$, hoặc tù đến 2 năm, hoặc cả hai; nhận tiền lại quả — phạt đến 30.000 S$, hoặc tù đến 2 năm, hoặc cả hai; chủ bị kết án còn có thể bị cấm thuê lao động nước ngoài. Bị bắt không có nghĩa là bị kết án.",
+        "my": "စက်တင်ဘာ 4 ရက်နေ့မှာ MOM က ကြေညာတယ်- ဆောက်လုပ်ရေးကဏ္ဍက ကုမ္ပဏီဒါရိုက်တာ 2 ဦးနဲ့ ဝန်ထမ်း 2 ဦး ဖမ်းခံရပြီး နောက်ထပ် 21 ဦး စုံစမ်းရေး ကူညီနေတယ်။ အလုပ်ပါမစ်လျှောက်လွှာမှာ မှားယွင်းကြေညာတာ၊ နိုင်ငံခြားလုပ်သား ကိုတာ ပိုရဖို့ အလုပ်မလုပ်တဲ့သူတွေအတွက် CPF ထည့်တာ၊ အလုပ်အတွက် လာဘ်ငွေ (kickback) ယူတာတွေ ဖြစ်တယ်။ MOM ရေးထားတဲ့ ပြစ်ဒဏ်- မှားယွင်းကြေညာရင် S$20,000 အထိ ဒဏ်ငွေ၊ ဒါမှမဟုတ် ထောင် 2 နှစ်အထိ၊ ဒါမှမဟုတ် နှစ်မျိုးလုံး၊ လာဘ်ငွေယူရင် S$30,000 အထိ ဒဏ်ငွေ၊ ဒါမှမဟုတ် ထောင် 2 နှစ်အထိ၊ ဒါမှမဟုတ် နှစ်မျိုးလုံး။ ပြစ်မှုထင်ရှားတဲ့ အလုပ်ရှင်တွေ နိုင်ငံခြားလုပ်သား ငှားခွင့် ပိတ်ခံရနိုင်တယ်။ ဖမ်းခံရတာနဲ့ ပြစ်မှုထင်ရှားတာ မတူပါဘူး။",
+        "fr": "Le MOM a annoncé le 4 septembre : deux dirigeants et deux employés d’entreprises du BTP ont été arrêtés, 21 autres personnes aident l’enquête, pour fausses déclarations dans des demandes de permis, CPF versé à des personnes qui n’y travaillaient pas afin d’obtenir plus de quotas de travailleurs étrangers, et rétrocommissions. Peines indiquées par le MOM : fausse déclaration — amende jusqu’à 20 000 S$, prison jusqu’à 2 ans, ou les deux ; rétrocommissions — amende jusqu’à 30 000 S$, prison jusqu’à 2 ans, ou les deux ; un employeur condamné peut aussi être interdit d’embaucher des étrangers. Arrêté ne veut pas dire condamné.",
+        "it": "Il MOM ha comunicato il 4 settembre: due amministratori e due dipendenti di imprese edili arrestati, altre 21 persone aiutano le indagini, per false dichiarazioni nelle domande di permesso, CPF versato a persone che non lavoravano lì per ottenere più quote di lavoratori stranieri, e soldi chiesti ai lavoratori per il posto. Pene indicate dal MOM: falsa dichiarazione — multa fino a 20.000 S$, carcere fino a 2 anni, o entrambi; soldi chiesti per il posto — multa fino a 30.000 S$, carcere fino a 2 anni, o entrambi; i datori condannati possono anche essere esclusi dall’assunzione di stranieri. Arrestato non vuol dire condannato."
       },
-      "source": { "label": "MOM · Press release, 4 Sep 2026", "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0904-four-arrested-and-21-assisting-in-investigations-for-employment-related-offences" }
+      "source": {
+        "label": {
+          "zh": "人力部 · 新闻稿（2026 年 9 月 4 日）",
+          "en": "MOM · Press release (4 September 2026)",
+          "vi": "MOM · Thông cáo báo chí (ngày 4 tháng 9 năm 2026)",
+          "my": "MOM · သတင်းထုတ်ပြန်ချက် (2026 စက်တင်ဘာ 4)",
+          "fr": "MOM · Communiqué de presse (4 septembre 2026)",
+          "it": "MOM · Comunicato stampa (4 settembre 2026)"
+        },
+        "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0904-four-arrested-and-21-assisting-in-investigations-for-employment-related-offences"
+      }
     },
     {
       "id": "2026-05-15-job-scam-singpass",
       "kind": "warning",
       "date": "2026-05-15",
       "title": {
-        "zh": "假招聘：冒充正规职业介绍所，骗你把 Singpass 的手机号和邮箱改成他们的",
-        "en": "Fake job ads: scammers pose as licensed agencies and get you to change your Singpass phone and email to theirs",
-        "vi": "Tuyển dụng giả: giả làm công ty môi giới có giấy phép, lừa bạn đổi số điện thoại và email Singpass sang của họ",
-        "my": "အလုပ်ခေါ်ကြော်ငြာ အတု- လိုင်စင်ရ အေဂျင်စီ အယောင်ဆောင်ပြီး သင့် Singpass ဖုန်းနံပါတ်နှင့် အီးမေးလ်ကို သူတို့ဟာ ပြောင်းခိုင်းသည်",
-        "fr": "Fausses offres d’emploi : des escrocs se font passer pour des agences agréées et vous font remplacer le téléphone et l’e-mail de votre Singpass par les leurs",
-        "it": "Falsi annunci di lavoro: truffatori fingono di essere agenzie autorizzate e ti fanno cambiare telefono ed e-mail del tuo Singpass con i loro"
+        "zh": "假招聘：冒充正规中介，骗你把 Singpass 的手机号和邮箱改成他们的",
+        "en": "Fake job ads: scammers pose as real agencies and get you to change your Singpass phone and email to theirs",
+        "vi": "Tuyển dụng giả: giả làm công ty môi giới thật, lừa bạn đổi số điện thoại và email Singpass sang của họ",
+        "my": "အလုပ်ခေါ် ကြော်ငြာအတု- တကယ့်အေဂျင်စီ အယောင်ဆောင်ပြီး သင့် Singpass ဖုန်းနံပါတ်နဲ့ အီးမေးလ်ကို သူတို့ဟာ ပြောင်းခိုင်းတယ်",
+        "fr": "Fausses offres d’emploi : des escrocs se font passer pour de vraies agences et vous font remplacer le téléphone et l’e-mail de votre Singpass par les leurs",
+        "it": "Falsi annunci di lavoro: truffatori fingono di essere agenzie vere e ti fanno cambiare telefono ed e-mail del Singpass con i loro"
+      },
+      "action": {
+        "zh": "绝不要把别人的手机号、邮箱填进你的 Singpass。对方报出真的中介执照号，也不代表他就是那家中介。",
+        "en": "Never put someone else’s phone or email on your Singpass. A real agency licence number does not prove the person is from that agency.",
+        "vi": "Đừng bao giờ đăng ký số điện thoại hay email của người khác vào Singpass của bạn. Có số giấy phép công ty môi giới thật không chứng minh người đó là của công ty ấy.",
+        "my": "တခြားသူရဲ့ ဖုန်း၊ အီးမေးလ်ကို သင့် Singpass မှာ ဘယ်တော့မှ မထည့်ပါနဲ့။ တကယ့် အေဂျင်စီလိုင်စင်နံပါတ် ပြောလာလည်း အဲဒီ အေဂျင်စီက လူဖြစ်တယ်လို့ မဆိုလိုပါဘူး။",
+        "fr": "Ne mettez jamais le téléphone ou l’e-mail de quelqu’un d’autre sur votre Singpass. Un vrai numéro de licence d’agence ne prouve pas que la personne vient de cette agence.",
+        "it": "Non mettere mai telefono o e-mail di altri sul tuo Singpass. Un numero di licenza vero non dimostra che la persona sia di quell’agenzia."
       },
       "body": {
-        "zh": "在 Telegram、Carousell 上贴假工作（比如演唱会工作人员），要你的个人资料，再说办「无犯罪证明」或「通行证」要你把 Singpass 的手机号和邮箱改成他们给的。改完他们就能收到一次性密码，用你的 Singpass 开银行账户。警方说今年 3 月起至少 20 宗。警方提醒：Singpass 资料别给任何人；别把别人的手机号、邮箱登记在你的 Singpass 上；中介先到人力部的职业介绍所名录查执照。",
-        "en": "Fake jobs (e.g. concert crew) are posted on Telegram and Carousell. They ask for your personal details, then say a “Certificate of Clearance” or “access pass” needs you to change your Singpass phone and email to ones they give you. They then receive your one-time passwords and open bank accounts with your Singpass. Police say at least 20 cases since March 2026. Police advice: never share your Singpass details; never register someone else’s phone or email on your Singpass; check an agency’s licence in MOM’s Employment Agencies Directory.",
-        "vi": "Việc làm giả (ví dụ nhân viên hậu cần buổi hòa nhạc) được đăng trên Telegram và Carousell. Họ xin thông tin cá nhân, rồi nói muốn có “Giấy xác nhận lý lịch” hay “thẻ ra vào” thì phải đổi số điện thoại và email Singpass sang số họ đưa. Sau đó họ nhận mã OTP và dùng Singpass của bạn mở tài khoản ngân hàng. Cảnh sát cho biết ít nhất 20 vụ từ tháng 3/2026. Lời khuyên: không đưa thông tin Singpass cho ai; không đăng ký số điện thoại hay email của người khác vào Singpass của bạn; kiểm tra giấy phép công ty môi giới trong Danh bạ Công ty Việc làm của MOM.",
-        "my": "Telegram နှင့် Carousell တွင် အလုပ်အတု (ဥပမာ ဖျော်ဖြေပွဲ ဝန်ထမ်း) တင်သည်။ ကိုယ်ရေးအချက်အလက် တောင်းပြီး “ရာဇဝတ်ကင်းရှင်းကြောင်း လက်မှတ်” သို့မဟုတ် “ဝင်ခွင့်ကတ်” အတွက် Singpass ဖုန်းနှင့် အီးမေးလ်ကို သူတို့ပေးသည့်ဟာ ပြောင်းရမည်ဟု ပြောသည်။ ထို့နောက် OTP ကို သူတို့ရပြီး သင့် Singpass ဖြင့် ဘဏ်အကောင့် ဖွင့်သည်။ ရဲ- ၂၀၂၆ မတ်လမှစ၍ အနည်းဆုံး ၂၀ မှု။ အကြံ- Singpass အချက်အလက် မည်သူ့ကိုမျှ မပေးပါနှင့်၊ အခြားသူ၏ ဖုန်း/အီးမေးလ်ကို သင့် Singpass တွင် မမှတ်ပုံတင်ပါနှင့်၊ အေဂျင်စီလိုင်စင်ကို MOM အလုပ်အကိုင်အေဂျင်စီ စာရင်းတွင် စစ်ပါ။",
-        "fr": "De faux emplois (par ex. équipe de concert) sont publiés sur Telegram et Carousell. On vous demande vos données, puis on vous dit qu’un « certificat de bonne conduite » ou un « badge d’accès » exige de remplacer le téléphone et l’e-mail de votre Singpass par ceux qu’on vous donne. Les escrocs reçoivent alors vos codes à usage unique et ouvrent des comptes bancaires avec votre Singpass. Au moins 20 cas depuis mars 2026 selon la police. Conseils : ne partagez jamais vos identifiants Singpass ; n’enregistrez jamais le téléphone ou l’e-mail de quelqu’un d’autre sur votre Singpass ; vérifiez la licence de l’agence dans l’annuaire des agences d’emploi du MOM.",
-        "it": "Lavori finti (per es. staff per concerti) pubblicati su Telegram e Carousell. Ti chiedono i dati personali, poi dicono che per un “certificato di buona condotta” o un “pass d’accesso” devi cambiare telefono ed e-mail del Singpass con quelli che ti danno. Così ricevono i tuoi codici monouso e aprono conti in banca con il tuo Singpass. Almeno 20 casi da marzo 2026 secondo la polizia. Consigli: non dare mai i dati del Singpass; non registrare mai telefono o e-mail di altri sul tuo Singpass; controlla la licenza dell’agenzia nell’elenco delle agenzie per il lavoro del MOM."
+        "zh": "骗子在 Telegram、Carousell 上贴假工作（比如演唱会工作人员），要你的个人资料，再说办「无犯罪证明」或「通行证」，要你把 Singpass 的手机号和邮箱改成他们给的。改完他们就能收到一次性密码，用你的 Singpass 开金融账户（比如电子钱包）。警方说今年 3 月起至少 20 宗。警方提醒：骗子会报出真的中介执照号，别因为有执照号就相信；在本地工作，本来就不需要无犯罪证明。",
+        "en": "Fake jobs (e.g. concert crew) are posted on Telegram and Carousell. They ask for your details, then say a “Certificate of Clearance” or “access pass” needs you to change your Singpass phone and email to ones they give you. They then receive your one-time passwords and open financial accounts (such as e-wallets) with your Singpass. Police say at least 20 cases since March 2026. Police advice: scammers may quote a valid agency licence number, so don’t trust someone just because of it; a Certificate of Clearance is not needed for local jobs.",
+        "vi": "Kẻ lừa đảo đăng việc làm giả (ví dụ nhân viên hậu cần buổi hòa nhạc) trên Telegram, Carousell, xin thông tin cá nhân, rồi nói muốn có “Giấy xác nhận lý lịch” hay “thẻ ra vào” thì phải đổi số điện thoại và email Singpass sang số họ đưa. Sau đó họ nhận mã OTP và dùng Singpass của bạn mở tài khoản tài chính (như ví điện tử). Cảnh sát cho biết ít nhất 20 vụ từ tháng 3 năm 2026. Cảnh sát nhắc: kẻ lừa đảo có thể đưa số giấy phép công ty môi giới thật, đừng tin chỉ vì có số đó; làm việc trong nước không cần giấy xác nhận lý lịch.",
+        "my": "လိမ်တဲ့သူတွေက Telegram၊ Carousell မှာ အလုပ်အတု (ဥပမာ ဖျော်ဖြေပွဲ ဝန်ထမ်း) တင်တယ်။ ကိုယ်ရေးအချက်အလက် တောင်းပြီး “ရာဇဝတ်ကင်းရှင်းကြောင်း လက်မှတ်” ဒါမှမဟုတ် “ဝင်ခွင့်ကတ်” လုပ်ဖို့ Singpass ဖုန်းနဲ့ အီးမေးလ်ကို သူတို့ပေးတာ ပြောင်းရမယ်လို့ ပြောတယ်။ ပြောင်းပြီးရင် OTP ကို သူတို့ရပြီး သင့် Singpass နဲ့ ငွေကြေးအကောင့် (ဥပမာ အီလက်ထရောနစ် ပိုက်ဆံအိတ်) ဖွင့်တယ်။ 2026 မတ်လကစပြီး အနည်းဆုံး 20 မှု ရှိတယ်လို့ ရဲက ပြောတယ်။ ရဲ သတိပေးချက်- လိမ်တဲ့သူတွေက တကယ့် အေဂျင်စီလိုင်စင်နံပါတ် ပြောနိုင်တယ်၊ အဲဒါကြောင့် မယုံပါနဲ့။ ပြည်တွင်းအလုပ်အတွက် ရာဇဝတ်ကင်းရှင်းကြောင်း လက်မှတ် မလိုပါဘူး။",
+        "fr": "De faux emplois (par ex. équipe de concert) sont publiés sur Telegram et Carousell. On vous demande vos données, puis on vous dit qu’un « certificat de bonne conduite » ou un « badge d’accès » exige de remplacer le téléphone et l’e-mail de votre Singpass par ceux qu’on vous donne. Les escrocs reçoivent alors vos codes à usage unique et ouvrent des comptes financiers (comme des portefeuilles électroniques) avec votre Singpass. Au moins 20 cas depuis mars 2026 selon la police. Conseils de la police : les escrocs peuvent citer un vrai numéro de licence d’agence, ne faites pas confiance pour cette seule raison ; un certificat de bonne conduite n’est pas nécessaire pour un emploi local.",
+        "it": "Lavori finti (per es. staff per concerti) pubblicati su Telegram e Carousell. Ti chiedono i dati, poi dicono che per un “certificato di buona condotta” o un “pass d’accesso” devi cambiare telefono ed e-mail del Singpass con quelli che ti danno. Così ricevono i tuoi codici monouso e aprono conti finanziari (come portafogli elettronici) con il tuo Singpass. Almeno 20 casi da marzo 2026 secondo la polizia. Consigli della polizia: i truffatori possono citare un numero di licenza d’agenzia vero, non fidarti solo per questo; per un lavoro a Singapore il certificato di buona condotta non serve."
       },
-      "source": { "label": "SPF · Joint advisory on job scams, 15 May 2026", "url": "https://www.police.gov.sg/media-hub/news/2026/05/20260515_joint_advisory_on_job_scams_involving_the_impersonation" }
+      "source": {
+        "label": {
+          "zh": "新加坡警方 · 假招聘联合警告（2026 年 5 月 15 日）",
+          "en": "Singapore Police · Joint advisory on job scams (15 May 2026)",
+          "vi": "Cảnh sát Singapore · Cảnh báo chung về lừa đảo việc làm (ngày 15 tháng 5 năm 2026)",
+          "my": "စင်ကာပူ ရဲ · အလုပ်လိမ်လည်မှု ပူးတွဲသတိပေးချက် (2026 မေ 15)",
+          "fr": "Police de Singapour · Alerte commune sur les arnaques à l’emploi (15 mai 2026)",
+          "it": "Polizia di Singapore · Avviso congiunto sulle truffe di lavoro (15 maggio 2026)"
+        },
+        "url": "https://www.police.gov.sg/media-hub/news/2026/05/20260515_joint_advisory_on_job_scams_involving_the_impersonation"
+      }
     },
     {
       "id": "2027-01-01-ep-spass-salary",
@@ -83,44 +137,80 @@
       "date": "2027-01-01",
       "passes": ["EP", "SPASS"],
       "title": {
-        "zh": "2027 年 1 月 1 日起：EP、S Pass 新申请的最低月薪提高（续签从 2028 年 1 月 1 日起到期的开始）",
-        "en": "From 1 January 2027: higher minimum salary for new EP and S Pass applications (renewals: passes expiring from 1 January 2028)",
-        "vi": "Từ ngày 1 tháng 1 năm 2027: lương tối thiểu cao hơn cho hồ sơ EP và S Pass mới (gia hạn: thẻ hết hạn từ ngày 1 tháng 1 năm 2028)",
-        "my": "2027 ဇန်နဝါရီ 1 မှစ၍- EP နှင့် S Pass လျှောက်လွှာအသစ်များအတွက် အနည်းဆုံးလစာ မြင့်တက် (သက်တမ်းတိုး- 2028 ဇန်နဝါရီ 1 မှစ၍ သက်တမ်းကုန်သော ပါ့စ်များ)",
-        "fr": "À partir du 1er janvier 2027 : salaire minimum plus élevé pour les nouvelles demandes d’EP et de S Pass (renouvellements : pass expirant à partir du 1er janvier 2028)",
-        "it": "Dal 1° gennaio 2027: stipendio minimo più alto per le nuove domande di EP e S Pass (rinnovi: pass in scadenza dal 1° gennaio 2028)"
+        "zh": "2027 年 1 月 1 日起：EP、S Pass 新申请的最低月薪提高",
+        "en": "From 1 January 2027: higher minimum salary for new EP and S Pass applications",
+        "vi": "Từ ngày 1 tháng 1 năm 2027: lương tối thiểu cao hơn cho hồ sơ EP và S Pass mới",
+        "my": "2027 ဇန်နဝါရီ 1 ကစပြီး- EP နဲ့ S Pass လျှောက်လွှာအသစ်တွေရဲ့ အနည်းဆုံးလစာ တက်မယ်",
+        "fr": "À partir du 1er janvier 2027 : salaire minimum plus élevé pour les nouvelles demandes d’EP et de S Pass",
+        "it": "Dal 1° gennaio 2027: stipendio minimo più alto per le nuove domande di EP e S Pass"
+      },
+      "action": {
+        "zh": "月薪刚好够线、打算明年才递的，先用「资格自查」按新线再算一次。续签的看证件到期日：2028 年 1 月 1 日起到期才用新线。",
+        "en": "If your salary only just meets the line and you plan to apply next year, re-check with “Eligibility check” using the new line. Renewals use the new line only for passes expiring from 1 January 2028.",
+        "vi": "Nếu lương vừa đủ mức và định nộp năm sau, hãy kiểm tra lại bằng “Kiểm tra điều kiện” theo mức mới. Gia hạn chỉ dùng mức mới với thẻ hết hạn từ ngày 1 tháng 1 năm 2028.",
+        "my": "လစာက လိုင်းကို ကပ်ရုံပဲရှိပြီး နောက်နှစ်မှ လျှောက်မယ်ဆိုရင် “လျှောက်ခွင့် စစ်ဆေးချက်” နဲ့ လိုင်းအသစ်အတိုင်း ပြန်တွက်ပါ။ သက်တမ်းတိုးရင်တော့ 2028 ဇန်နဝါရီ 1 ကစပြီး သက်တမ်းကုန်တဲ့ ပါ့စ်တွေမှ လိုင်းအသစ် သုံးမယ်။",
+        "fr": "Si votre salaire atteint tout juste le seuil et que vous déposez l’an prochain, refaites le calcul dans « Vérification d'éligibilité » avec le nouveau seuil. Pour un renouvellement, le nouveau seuil ne vaut que pour les pass expirant à partir du 1er janvier 2028.",
+        "it": "Se il tuo stipendio raggiunge appena la soglia e fai domanda l’anno prossimo, ricontrolla con “Verifica requisiti” usando la nuova soglia. Per i rinnovi la nuova soglia vale solo per i pass in scadenza dal 1° gennaio 2028."
       },
       "body": {
-        "zh": "EP：23 岁以下从 S$5,600 提到 S$6,000，越老越高，45 岁及以上 S$11,500（银行、基金、保险更高）。S Pass 也一起提高。现在月薪刚好够线、打算明年才递的人要特别注意。在「资格自查」里选「新申请」或填到期日，会按你那一档算。",
-        "en": "EP: from S$5,600 to S$6,000 at 23 and below, rising with age to S$11,500 at 45+ (higher for banking, funds and insurance). The S Pass line rises too. If your salary only just meets the line and you plan to apply next year, take note. In “Eligibility check”, choose “new application” or enter your expiry date and the right line is used.",
-        "vi": "EP: từ 5.600 S$ lên 6.000 S$ cho người 23 tuổi trở xuống, tăng theo tuổi đến 11.500 S$ cho người từ 45 tuổi (ngân hàng, quỹ, bảo hiểm cao hơn). Mức S Pass cũng tăng. Nếu lương bạn vừa đủ mức và định nộp năm sau, hãy lưu ý. Trong “Tự kiểm tra điều kiện”, chọn “hồ sơ mới” hoặc nhập ngày hết hạn, ứng dụng sẽ dùng đúng mức.",
-        "my": "EP- အသက် ၂၃ နှင့်အောက် S$5,600 မှ S$6,000 သို့၊ အသက်အလိုက် တိုးပြီး ၄၅ နှစ်နှင့်အထက် S$11,500 (ဘဏ်၊ ရန်ပုံငွေ၊ အာမခံ ပိုမြင့်)။ S Pass လည်း မြင့်တက်သည်။ လစာ လိုင်းကို ကပ်ရုံရှိပြီး နောက်နှစ်မှ လျှောက်မည်ဆိုလျှင် သတိပြုပါ။ “အရည်အချင်း ကိုယ်တိုင်စစ်” တွင် “လျှောက်လွှာအသစ်” ရွေး သို့မဟုတ် သက်တမ်းကုန်ရက် ထည့်လျှင် မှန်ကန်သော လိုင်းကို သုံးမည်။",
-        "fr": "EP : de 5 600 S$ à 6 000 S$ à 23 ans et moins, puis en hausse avec l’âge jusqu’à 11 500 S$ à 45 ans et plus (plus élevé pour la banque, les fonds et l’assurance). Le seuil du S Pass augmente aussi. Si votre salaire atteint tout juste le seuil et que vous comptez déposer l’an prochain, attention. Dans « Vérifier mon éligibilité », choisissez « nouvelle demande » ou indiquez la date d’expiration : le bon seuil est appliqué.",
-        "it": "EP: da 5.600 S$ a 6.000 S$ fino a 23 anni, poi sale con l’età fino a 11.500 S$ dai 45 anni (più alto per banche, fondi e assicurazioni). Sale anche la soglia dell’S Pass. Se il tuo stipendio raggiunge appena la soglia e pensi di fare domanda l’anno prossimo, fai attenzione. In “Verifica requisiti” scegli “nuova domanda” o inserisci la data di scadenza: verrà usata la soglia giusta."
+        "zh": "EP：23 岁及以下从 S$5,600 提到 S$6,000，越老越高，45 岁及以上 S$11,500（银行、基金、保险更高）。S Pass 也一起提高。",
+        "en": "EP: from S$5,600 to S$6,000 at 23 and below, rising with age to S$11,500 at 45+ (higher for banking, funds and insurance). The S Pass line rises too.",
+        "vi": "EP: từ 5.600 S$ lên 6.000 S$ cho người 23 tuổi trở xuống, tăng theo tuổi đến 11.500 S$ từ 45 tuổi (ngân hàng, quỹ, bảo hiểm cao hơn). Mức S Pass cũng tăng.",
+        "my": "EP- အသက် 23 နဲ့အောက် S$5,600 ကနေ S$6,000 ဖြစ်မယ်၊ အသက်ကြီးလေ မြင့်လေဖြစ်ပြီး 45 နှစ်နဲ့အထက် S$11,500 (ဘဏ်၊ ရန်ပုံငွေ၊ အာမခံ ပိုမြင့်)။ S Pass လည်း တက်မယ်။",
+        "fr": "EP : de 5 600 S$ à 6 000 S$ à 23 ans et moins, puis en hausse avec l’âge jusqu’à 11 500 S$ à 45 ans et plus (plus élevé pour la banque, les fonds et l’assurance). Le seuil du S Pass augmente aussi.",
+        "it": "EP: da 5.600 S$ a 6.000 S$ fino a 23 anni, poi sale con l’età fino a 11.500 S$ dai 45 anni (più alto per banche, fondi e assicurazioni). Sale anche la soglia dell’S Pass."
       },
-      "source": { "label": "MOM · EP eligibility", "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility" }
+      "source": {
+        "label": {
+          "zh": "人力部 · EP 申请条件",
+          "en": "MOM · EP eligibility",
+          "vi": "MOM · Điều kiện EP",
+          "my": "MOM · EP လျှောက်ထားခွင့် အရည်အချင်း",
+          "fr": "MOM · Conditions de l’EP",
+          "it": "MOM · Requisiti dell’EP"
+        },
+        "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility"
+      }
     },
     {
       "id": "2026-10-check",
       "kind": "check",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "title": {
-        "zh": "本月核对（2026 年 10 月）：改了 4 处规则",
-        "en": "This month’s check (October 2026): 4 rules corrected",
-        "vi": "Kiểm tra tháng này (tháng 10 năm 2026): sửa 4 quy định",
-        "my": "ဤလ စစ်ဆေးချက် (2026 အောက်တိုဘာ)- စည်းမျဉ်း ၄ ခု ပြင်ဆင်",
-        "fr": "Vérification du mois (octobre 2026) : 4 règles corrigées",
-        "it": "Controllo del mese (ottobre 2026): 4 regole corrette"
+        "zh": "App 本月修正了 5 处（这是我们改自己的错，不是政府出了新规定）",
+        "en": "This app corrected 5 things this month (our own fixes — not new government rules)",
+        "vi": "Ứng dụng đã sửa 5 chỗ tháng này (là chúng tôi tự sửa lỗi, không phải quy định mới của chính phủ)",
+        "my": "ဒီလ အက်ပ်က 5 နေရာ ပြင်လိုက်တယ် (ကျွန်တော်တို့ အမှားကို ကိုယ်တိုင်ပြင်တာ၊ အစိုးရ စည်းမျဉ်းအသစ် မဟုတ်ပါ)",
+        "fr": "L’application a corrigé 5 points ce mois-ci (nos propres corrections — pas de nouvelles règles du gouvernement)",
+        "it": "L’app ha corretto 5 punti questo mese (correzioni nostre, non nuove regole del governo)"
+      },
+      "action": {
+        "zh": "之前查过这几种情况的，再用「资格自查」查一次。",
+        "en": "If you checked any of these before, run “Eligibility check” again.",
+        "vi": "Nếu trước đây bạn đã kiểm tra các trường hợp này, hãy chạy lại “Kiểm tra điều kiện”.",
+        "my": "ဒီကိစ္စတွေကို အရင်က စစ်ဖူးရင် “လျှောက်ခွင့် စစ်ဆေးချက်” နဲ့ နောက်တစ်ခါ ပြန်စစ်ပါ။",
+        "fr": "Si vous aviez vérifié l’un de ces cas, relancez « Vérification d'éligibilité ».",
+        "it": "Se avevi già controllato uno di questi casi, rifai la “Verifica requisiti”."
       },
       "body": {
-        "zh": "① 女佣新准证年龄：马来西亚人是 23 岁到未满 58 岁（以前写成一律未满 50）。② 女佣换雇主要申请新准证，按新准证的年龄线算；只有现在的雇主续签能续到 60 岁。③ EntrePass 家属：配偶孩子要公司一年总开销 S$100,000 并请 1 名本地员工；带父母要 S$200,000 并请 2 名。④ 入籍：还不是 PR 的「年迈父母」一类判不符合。以上都按人力部、移民局原文核过。",
-        "en": "① Helper new-permit age: Malaysians 23 to under 58 (we had said under 50 for everyone). ② A helper changing employer needs a new permit, so the new-permit age line applies; only the current employer can renew up to 60. ③ EntrePass families: spouse and children need annual total business spending of S$100,000 and 1 local employee; parents need S$200,000 and 2. ④ Citizenship: the “aged parent” route is marked not met if you are not yet a PR. All checked against MOM and ICA originals.",
-        "vi": "① Tuổi xin giấy phép mới cho người giúp việc: người Malaysia từ 23 đến dưới 58 tuổi (trước đây ghi dưới 50 cho tất cả). ② Người giúp việc đổi chủ cần giấy phép mới nên áp dụng mức tuổi của giấy phép mới; chỉ chủ hiện tại mới gia hạn được đến 60 tuổi. ③ Gia đình người có EntrePass: vợ/chồng, con cần công ty chi tiêu 100.000 S$/năm và thuê 1 người địa phương; cha mẹ cần 200.000 S$ và 2 người. ④ Nhập tịch: diện “cha mẹ cao tuổi” được ghi là chưa đạt nếu bạn chưa là PR. Tất cả đã đối chiếu với bản gốc của MOM và ICA.",
-        "my": "① အိမ်အကူ ပါမစ်အသစ် အသက်- မလေးရှားနိုင်ငံသား ၂၃ မှ ၅၈ မပြည့်ခင် (ယခင်က အားလုံး ၅၀ မပြည့်ဟု ရေးထား)။ ② အလုပ်ရှင်ပြောင်းသော အိမ်အကူသည် ပါမစ်အသစ် လိုသဖြင့် ပါမစ်အသစ် အသက်လိုင်း သက်ရောက်သည်၊ လက်ရှိ အလုပ်ရှင်သာ ၆၀ အထိ သက်တမ်းတိုးနိုင်သည်။ ③ EntrePass မိသားစု- ဇနီး/ခင်ပွန်း၊ ကလေးများအတွက် ကုမ္ပဏီ နှစ်စဉ်စုစုပေါင်းအသုံးစရိတ် S$100,000 နှင့် ဒေသခံဝန်ထမ်း ၁ ဦး၊ မိဘအတွက် S$200,000 နှင့် ၂ ဦး။ ④ နိုင်ငံသားခံယူခြင်း- PR မဖြစ်သေးလျှင် “သက်ကြီးမိဘ” လမ်းကြောင်း မပြည့်မီဟု ပြသည်။ အားလုံး MOM နှင့် ICA မူရင်းနှင့် တိုက်စစ်ပြီး။",
-        "fr": "① Âge pour un nouveau permis d’employée de maison : Malaisiennes de 23 ans à moins de 58 ans (nous avions écrit moins de 50 ans pour toutes). ② Changer d’employeur exige un nouveau permis, donc la limite d’âge du nouveau permis s’applique ; seul l’employeur actuel peut renouveler jusqu’à 60 ans. ③ Familles de titulaires d’EntrePass : conjoint et enfants exigent 100 000 S$ de dépenses annuelles de l’entreprise et 1 employé local ; les parents 200 000 S$ et 2. ④ Naturalisation : la voie « parent âgé » est marquée non remplie si vous n’êtes pas encore PR. Tout vérifié sur les textes du MOM et de l’ICA.",
-        "it": "① Età per un nuovo permesso da collaboratrice domestica: malesi da 23 anni a meno di 58 (avevamo scritto meno di 50 per tutte). ② Cambiare datore richiede un nuovo permesso, quindi vale la soglia d’età del nuovo permesso; solo il datore attuale può rinnovare fino a 60 anni. ③ Famiglie di titolari EntrePass: coniuge e figli richiedono 100.000 S$ di spese annue dell’azienda e 1 dipendente locale; i genitori 200.000 S$ e 2. ④ Cittadinanza: la via “genitore anziano” risulta non soddisfatta se non sei ancora PR. Tutto verificato sui testi originali di MOM e ICA."
+        "zh": "① 女佣新准证年龄：马来西亚人是 23 岁到未满 58 岁（以前写成一律未满 50）。② 女佣换雇主要由新雇主申请新准证，按新准证的年龄线算；只有现在的雇主续签能续到 60 岁。③ EntrePass 家属：配偶孩子要公司一年总开销 S$100,000 并请 1 名本地员工（或另有创业成绩）；带父母或同居伴侣要 S$200,000 并请 2 名。④ 入籍：还不是 PR 的「年迈父母」一类判不符合，并指去先申请 PR。⑤ 「年迈父母申请 PR」：ICA 没写多大算年迈，改成「要再核」。以上都按人力部、移民局原文核过。",
+        "en": "① Helper new-permit age: Malaysians 23 to under 58 (we had said under 50 for everyone). ② A helper changing employer needs the new employer to apply for a new permit, so the new-permit age line applies; only the current employer can renew up to 60. ③ EntrePass families: spouse and children need annual total business spending of S$100,000 and 1 local employee (or other founder track record); parents or a common-law spouse need S$200,000 and 2. ④ Citizenship: the “aged parent” route is not met if you are not yet a PR, and now points you to apply for PR first. ⑤ “PR for aged parents”: ICA does not say what age counts as aged, so it is now “to check”. All checked against MOM and ICA originals.",
+        "vi": "① Tuổi giấy phép mới cho người giúp việc: người Malaysia từ 23 đến dưới 58 tuổi (trước ghi dưới 50 cho tất cả). ② Người giúp việc đổi chủ cần chủ mới xin giấy phép mới, nên áp dụng mức tuổi của giấy phép mới; chỉ chủ hiện tại mới gia hạn được đến 60 tuổi. ③ Gia đình người có EntrePass: vợ/chồng, con cần công ty chi tiêu 100.000 S$/năm và thuê 1 người địa phương (hoặc có thành tích khởi nghiệp khác); cha mẹ hoặc bạn đời chung sống cần 200.000 S$ và 2 người. ④ Nhập tịch: diện “cha mẹ cao tuổi” chưa đạt nếu bạn chưa là PR, và nay chỉ bạn xin PR trước. ⑤ “PR cho cha mẹ cao tuổi”: ICA không nói bao nhiêu tuổi là cao tuổi, nên nay là “cần kiểm tra”. Tất cả đã đối chiếu bản gốc của MOM và ICA.",
+        "my": "① အိမ်အကူ ပါမစ်အသစ် အသက်- မလေးရှားနိုင်ငံသားက 23 ကနေ 58 မပြည့်ခင်ထိ (အရင်က အားလုံး 50 မပြည့်လို့ ရေးထားတယ်)။ ② အလုပ်ရှင်ပြောင်းတဲ့ အိမ်အကူအတွက် အလုပ်ရှင်အသစ်က ပါမစ်အသစ် လျှောက်ရလို့ ပါမစ်အသစ်ရဲ့ အသက်လိုင်း သုံးတယ်၊ လက်ရှိ အလုပ်ရှင်ကပဲ 60 အထိ သက်တမ်းတိုးလို့ရတယ်။ ③ EntrePass မိသားစု- ဇနီး/ခင်ပွန်း၊ ကလေးအတွက် ကုမ္ပဏီ တစ်နှစ်စုစုပေါင်း အသုံးစရိတ် S$100,000 နဲ့ ဒေသခံဝန်ထမ်း 1 ဦး (ဒါမှမဟုတ် တခြား စီးပွားရေး အောင်မြင်မှု)၊ မိဘ ဒါမှမဟုတ် အတူနေ ဖော်ဖက်အတွက် S$200,000 နဲ့ 2 ဦး။ ④ နိုင်ငံသားခံယူခြင်း- PR မဖြစ်သေးရင် “သက်ကြီးမိဘ” လမ်းကြောင်း မပြည့်မီဘူး၊ PR အရင်လျှောက်ဖို့ ညွှန်ပြပေးတယ်။ ⑤ “သက်ကြီးမိဘ PR”- ဘယ်အသက်ကို သက်ကြီးလို့ ခေါ်လဲ ICA က မရေးထားလို့ “ပြန်စစ်ရန်” လို့ ပြောင်းထားတယ်။ အားလုံး MOM နဲ့ ICA မူရင်းနဲ့ တိုက်စစ်ပြီးပါပြီ။",
+        "fr": "① Âge pour un nouveau permis d’employée de maison : Malaisiennes de 23 ans à moins de 58 ans (nous avions écrit moins de 50 ans pour toutes). ② Pour changer d’employeur, le nouvel employeur demande un nouveau permis, donc la limite d’âge du nouveau permis s’applique ; seul l’employeur actuel peut renouveler jusqu’à 60 ans. ③ Familles de titulaires d’EntrePass : conjoint et enfants exigent 100 000 S$ de dépenses annuelles de l’entreprise et 1 employé local (ou un autre parcours d’entrepreneur) ; parents ou concubin, 200 000 S$ et 2. ④ Naturalisation : la voie « parent âgé » n’est pas remplie si vous n’êtes pas encore PR, et vous êtes maintenant orienté vers la demande de PR d’abord. ⑤ « PR pour parents âgés » : l’ICA ne dit pas à partir de quel âge on est « âgé », c’est donc désormais « à vérifier ». Tout vérifié sur les textes du MOM et de l’ICA.",
+        "it": "① Età per un nuovo permesso da collaboratrice domestica: malesi da 23 anni a meno di 58 (avevamo scritto meno di 50 per tutte). ② Per cambiare datore, il nuovo datore chiede un nuovo permesso, quindi vale la soglia d’età del nuovo permesso; solo il datore attuale può rinnovare fino a 60 anni. ③ Famiglie di titolari EntrePass: coniuge e figli richiedono 100.000 S$ di spese annue dell’azienda e 1 dipendente locale (o altri risultati da fondatore); genitori o convivente 200.000 S$ e 2. ④ Cittadinanza: la via “genitore anziano” non è soddisfatta se non sei ancora PR, e ora ti indirizza a chiedere prima la PR. ⑤ “PR per genitori anziani”: l’ICA non dice da che età si è “anziani”, quindi ora è “da verificare”. Tutto verificato sui testi originali di MOM e ICA."
       },
-      "source": { "label": "MOM · Can I hire an MDW aged 50 and above", "url": "https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-an-fdw-who-is-aged-50-and-above" }
+      "source": {
+        "label": {
+          "zh": "人力部 · 50 岁以上的女佣能不能请",
+          "en": "MOM · Can I hire an MDW aged 50 and above",
+          "vi": "MOM · Có thuê người giúp việc từ 50 tuổi được không",
+          "my": "MOM · အသက် 50 နဲ့အထက် အိမ်အကူ ငှားလို့ရလား",
+          "fr": "MOM · Peut-on employer une employée de maison de 50 ans ou plus",
+          "it": "MOM · Si può assumere una collaboratrice domestica di 50 anni o più"
+        },
+        "url": "https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-an-fdw-who-is-aged-50-and-above"
+      }
     }
   ]
 }
