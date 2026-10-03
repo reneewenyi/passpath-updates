@@ -1,0 +1,4 @@
+<!doctype html><html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PassPath updates</title>
+<style>body{font:16px/1.6 -apple-system,"PingFang SC",sans-serif;max-width:720px;margin:0 auto;padding:16px;background:#FFFBF5;color:#1b2433}h1{color:#097A6E}article{background:#fff;border-radius:16px;padding:14px 16px;margin:12px 0;border:1px solid #eee}small{color:#667}</style></head>
+<body><h1>居留路径 · 最近动态</h1><p>只收官方公告，每条附原文。The app reads <a href="updates.json">updates.json</a>.</p><div id="l"></div>
+<script>fetch('updates.json').then(r=>r.json()).then(u=>{document.getElementById('l').innerHTML=u.items.map(i=>`<article><small>${i.date} · ${i.kind}</small><h3>${i.title.zh}</h3><p>${i.body.zh}</p><a href="${i.source.url}">${i.source.label} ↗</a></article>`).join('')})</script></body></html>
